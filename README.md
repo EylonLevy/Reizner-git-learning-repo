@@ -13,8 +13,10 @@ The right way - You will try to learn everything by yourself without guidence. t
 The hard way exercises:
 
 !!!!NOTE!!!!
-Use only the git bash terminal and not the web ui,
+
+Use only the git bash terminal and not the web ui (except creating a user and config him),
 you will have to use a couple of commands, so look how to do it using "bash"
+
 !!!!NOTE!!!!
 
 Download "git bash"
