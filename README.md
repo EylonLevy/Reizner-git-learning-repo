@@ -4,7 +4,7 @@ Welcome to the learning zone.
 
 Here, just like in the Matrix Movie, you have two options to choose from.
 
-You can learn git the right way and the easy way. Which one is better? Definitely the latter but it will require some effort and maybe some tears, blood and sweat.
+You can learn git the right way and the easy way. Which one is better? Definitely the former but it will require some effort and maybe some tears, blood and sweat.
 
 The easy way - You will propably learn the basic but that's about it. Go to this site and have fun https://learngitbranching.js.org/.
 
