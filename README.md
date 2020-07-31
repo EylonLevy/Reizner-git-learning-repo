@@ -12,6 +12,11 @@ The right way - You will try to learn everything by yourself without guidence. t
 
 The hard way exercises:
 
+!!!!NOTE!!!!
+Use only the git bash terminal and not the web ui,
+you will have to use a couple of commands, so look how to do it using "bash"
+!!!!NOTE!!!!
+
 Download "git bash"
 
 Learn how to clone this repo (find out what that means).
