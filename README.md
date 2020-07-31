@@ -33,3 +33,5 @@ Create from the master a new branch and create a file named hello-branch2
 Make hello-branch2 appear in the master using one command
 
 Make the master in github show hello-branch2
+
+Type the command history in git bash and send me the output so I could see what have you done
