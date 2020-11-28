@@ -1,1 +1,5 @@
 here be answers
+
+What is interface? it is the LAW, or more accuretly it is a set of rules that everying that uses the interface must follow. be like this, do this set of actions, or anything such as that
+
+what is poly? specificly subtyping is when you place multipule under one large catagory, allowing you to trigger multiputle things that have that subtype even if they are otherwise distinct
